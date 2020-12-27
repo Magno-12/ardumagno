@@ -1,0 +1,14 @@
+El curso es algo espectacular, yo ya tenía conocimientos en el diseño
+de circuitos electronicos por una matería de la Universidad llamada 
+Microcontroladores(Estudio ingenería electronica), pero eso fue hace mucho, hoy quise retomar esto
+porque me quiero dedicar a diseñar hardware entonces he hecho 
+una mezcla de conceptos de arduino con rapberrypi y un puenteH
+para un seguidor de linea con uno que otro sensor, no solo este
+curso me ayudó si no, tambien el de diseño de hardware con arduino
+y el de introduccion al IOT.
+
+He utilizado DipTrace porque aprendí con ese primero pero no descarto
+utilizar en un futuro kicad pero para este proyecto me decanté por 
+diptrace por el conocimiento previo, el instructor es espectacular 
+Lucas forero es un crack!! gracias por impartir conocimiento de una
+manera ta clara y concisa.

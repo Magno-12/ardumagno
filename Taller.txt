@@ -1,0 +1,3 @@
+En resumen los algoritmos de la trasnformada de fourier se utilizan
+para describir una señal en senos y cosenos ya
+que esto se hace para describir cualquier señal de manera adecuada.
